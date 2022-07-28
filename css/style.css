@@ -577,6 +577,7 @@ body {
 }
 
 
+
 .product__footer {
   display: flex;
   justify-content: space-between;
@@ -648,6 +649,7 @@ body {
   width: 142px;  
   height: 49px; 
   box-sizing: border-box;
+  margin-bottom: 20px;
 }
 
 /* Footer */
